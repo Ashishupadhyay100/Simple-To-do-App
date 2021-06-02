@@ -7,5 +7,5 @@
 2. The Todo will be listed and dislay on UI
 3. When your task is completed just double click on that to delete that todo
 
-## Go and try using this Link
+## Go and try by clicking on given below link
 [Todo-App](https://github.com/Ashishupadhyay100/Simple-To-do-App/)
