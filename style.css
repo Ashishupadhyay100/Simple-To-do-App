@@ -1,0 +1,46 @@
+*{  box-sizing: border-box;
+    margin = 0px;
+    padding: 0px;
+    font-family: 'Pattaya', sans-serif;
+
+}
+.container{
+    border: blueviolet solid 2px;
+    background: skyblue;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.input{
+ display: block;
+ margin: auto;
+ width: 50vw;
+ height: 6vw;
+ font-size: xx-large;
+ text-align: center;
+ border-radius: 35px;
+ border: 2px solid black;
+}
+
+.inner{
+
+
+}
+
+.todoList{
+    /* border: 4px solid red; */
+    padding: 5px;
+    margin: 5px;
+}
+
+.li{
+   list-style: none;
+   background-color: lightcyan;
+   height: 7vh;
+   width: 70vw;
+   margin: auto;
+   margin-top: 2vh;
+   border-radius: 20px;
+   text-align: center;
+   font-size: 2.0rem;
+}
